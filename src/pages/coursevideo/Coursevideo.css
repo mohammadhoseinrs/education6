@@ -1,0 +1,35 @@
+.coursevideo{
+    background: transparent;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 32px;
+    padding: 13px 35px;
+    position: relative;
+    text-align: left;
+    transition: .4s;
+    display: flex;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.coursevideo__right{
+    background: transparent;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 32px;
+    padding: 13px 15px;
+    position: relative;
+    text-align: left;
+    transition: .4s;
+    flex: 0.3;
+}
+.coursevideo__left{
+    flex: 0.6;
+}
+.coursevideo__left__top{
+
+}

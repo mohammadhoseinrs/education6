@@ -1,0 +1,36 @@
+.coursecomment{
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 30px;
+    margin-bottom: 2rem;
+    margin-right: 4.5rem;
+    width: 58%;
+}
+.coursecomment__form textarea{
+    width: 100%;
+    background: #f5f5f5;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    color: #000000;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 18px;
+}
+.coursecomment__form__btn{
+    margin-top: 1rem;
+    background: #525fe1;
+    background: var(--color-primary);
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    color: var(--color-white);
+    display: inline-block;
+    font-size: 18px;
+    padding: 10px 30px;
+    transition: .4s;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
